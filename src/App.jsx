@@ -40,6 +40,7 @@ function App() {
       index==1? caption='About':'';
       index==2? caption='Resume':'';
       index==3? caption='Portfolio':'';
+      // index==4? caption='Contact':'';
       return '<span class="' + className +  ' rounded pl-2 pr-2"><b>' + caption + '</b></span>';
     },
   };
@@ -58,7 +59,7 @@ function App() {
         <SwiperSlide className='bg-black pr-0 mr-0 pb-5'>
           <Portfolio />
         </SwiperSlide>
-        {/* <SwiperSlide>Slide 5</SwiperSlide> */}
+        {/* <SwiperSlide className='bg-black pr-0 mr-0 pb-5'></SwiperSlide> */}
       </Swiper>
       <div className="credits">
         Framework <a href="https://vitejs.dev/" target='_blank'>Vite+ReactJS</a> & <a href="https://bootstrapmade.com/" target='_blank'>Bootstrap</a> <span className='poppin'> [ JPSD ]</span>
