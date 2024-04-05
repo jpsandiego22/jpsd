@@ -12,9 +12,9 @@ const details =
         { id: 5, img:'nodejs-expressjs.jpg', category: 'Website', url: 'https://github.com/jpsandiego22/nodeJS-Crud-Jwt-BasicAuth-RestApi', dateHired: 'N/A', 
             details:'Build using NodeJS, ExpressJS, JSON Web Token & Basic Authorization - CRUD RestAPI.' },
         { id: 6, img:'react-works.jpg', category: 'Website', url: '/', dateHired: 'N/A', 
-            details:'Maintained & Build using the ff<br/>Laravel v5.5, MariaDB, JQuery, Ajax, JSON' },
+            details:'Maintained & Build using the ff<br/>ReactJS & uploaded using Github Page.' },
         { id: 7, img:'aeon-webadmin.jpg', category: 'Website', url: 'N/A', dateHired: 'N/A', 
-            details:'Maintained & Build using the ff<br/>Laravel v5.5, MariaDB, JQuery, Ajax, JSON' }
+            details:'Maintained & Build using the ff<br/>Laravel v5.5, VueJS, MariaDB, JQuery, Ajax, JSON' }
            
     ];
 const MyComponent = () => (

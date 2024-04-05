@@ -22,6 +22,16 @@ import Resume from './component/Resume';
 import Portfolio from './component/Portfolio';
 
 function App() {
+  useEffect(() => {
+    // Change page title
+    document.title = "JPSD";
+
+    // Change favicon
+    const favicon = document.getElementById('favicon');
+    if (favicon) {
+      favicon.href = '/path/to/icon.png';
+    }
+  }, []);
   const pagination = {
     clickable: true,
     renderBullet: function (index, className) {
