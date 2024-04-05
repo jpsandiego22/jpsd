@@ -38,7 +38,7 @@ function Portfolio() {
                     
                     {/* <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap rounded p-2">
-                            <img src="/chsi.jpg" className="img-fluid" alt=""/>
+                            <img src="chsi.jpg" className="img-fluid" alt=""/>
                             <div className="portfolio-info">
                                 <h4>CARITAS HEALTH SHIELD WEBSITE</h4>
                                 <p>LARAVEL</p>
@@ -51,7 +51,7 @@ function Portfolio() {
                     </div>
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap rounded p-2">
-                            <img src="/chsi-mis.jpg" className="img-fluid" alt=""/>
+                            <img src="chsi-mis.jpg" className="img-fluid" alt=""/>
                             <div className="portfolio-info">
                                 <h4>CHSI MEMBER INFORMATION SYSTEM</h4>
                                 <p>LARAVEL</p>
@@ -65,7 +65,7 @@ function Portfolio() {
                     </div>
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap rounded p-2">
-                            <img src="/chsi-proposal.jpg" className="img-fluid" alt=""/>
+                            <img src="chsi-proposal.jpg" className="img-fluid" alt=""/>
                             <div className="portfolio-info">
                                 <h4>CHSI PROPOSAL SYSTEM</h4>
                                 <p>LARAVEL</p>
@@ -79,7 +79,7 @@ function Portfolio() {
                     </div>
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap rounded p-2">
-                            <img src="/issabelPBX.jpg" className="img-fluid" alt=""/>
+                            <img src="issabelPBX.jpg" className="img-fluid" alt=""/>
                             <div className="portfolio-info">
                                 <h4>Issabel PBX</h4>
                                 <p>Aeon - Vietnam</p>
@@ -94,7 +94,7 @@ function Portfolio() {
                    
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap rounded p-2">
-                            <img src="/nodejs-expressjs.jpg" className="img-fluid" alt=""/>
+                            <img src="nodejs-expressjs.jpg" className="img-fluid" alt=""/>
                             <div className="portfolio-info">
                                 <h4>ExpressJS-Crud-JWT-BasicAuth-RestApi</h4>
                                 <p>NodeJS</p>
@@ -108,7 +108,7 @@ function Portfolio() {
                     </div>
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap rounded p-2">
-                            <img src="/react-works.jpg"  alt=""/>
+                            <img src="react-works.jpg"  alt=""/>
                             <div className="portfolio-info">
                                 <h4>MySite</h4>
                                 <p>ReactJS</p>
@@ -125,7 +125,7 @@ function Portfolio() {
                     </div>
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap rounded p-2">
-                            <img src="/aeon-webadmin.jpg" className="img-fluid rounded" alt=""/>
+                            <img src="aeon-webadmin.jpg" className="img-fluid rounded" alt=""/>
                             <div className="portfolio-info">
                                 <h4>WEB ADMIN (VISA CARD)</h4>
                                 <p>AEON Specialized Bank (Cambodia) Plc</p>
