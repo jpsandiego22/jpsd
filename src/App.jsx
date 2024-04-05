@@ -29,7 +29,7 @@ function App() {
     // Change favicon
     const favicon = document.getElementById('favicon');
     if (favicon) {
-      favicon.href = '/path/to/icon.png';
+      favicon.href = 'icon.png';
     }
   }, []);
   const pagination = {
