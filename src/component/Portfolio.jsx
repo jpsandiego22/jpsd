@@ -125,7 +125,7 @@ function Portfolio() {
                     </div>
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap rounded p-2">
-                            <img src="aeon-webadmin.jpg" className="img-fluid rounded" alt=""/>
+                            <img src="jpsd/aeon-webadmin.jpg" className="img-fluid rounded" alt=""/>
                             <div className="portfolio-info">
                                 <h4>WEB ADMIN (VISA CARD)</h4>
                                 <p>AEON Specialized Bank (Cambodia) Plc</p>
